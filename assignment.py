@@ -1,0 +1,13 @@
+x = 10
+x +=5
+print("Assign 5 to x+=5: ",x)
+x-=5
+print("Subtraction 5 to x-=5: ",x)
+x*=5
+print("Multiplication 5 to x*=5: ",x)
+x/=5
+print("Division 5 to x/=5: ",x)
+x**=2
+print("Exponent 2 to x**=2: ",x)
+x//=2
+print("Floor Division 2 to x*//=2: ",x)
